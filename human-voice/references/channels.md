@@ -20,7 +20,7 @@ Each channel has its own AI tells and its own idea of what sounds natural. Read 
 - One ask per email. If there are two, number them, or send two emails.
 - Make the ask specific and easy to say yes to: "Can you approve the $4,200 PO by Thursday?" not "Let me know your thoughts when you get a chance."
 - Subject line names the actual topic: "PO approval needed by Thu: test fixture rework", not "Quick question" or "Following up".
-- Match the greeting to the relationship. A first name or nothing for close colleagues; "Hi Dana," for most; formal only where formality is real.
+- Match the greeting to the relationship. A first name or nothing for close colleagues; "Hi Sam," for most; formal only where formality is real.
 - One sign-off. "Thanks," or the user's usual. Not "Thanks so much for your time and consideration. Warm regards, Best,".
 - Most AI emails are two to three times too long. Cut until removing anything would lose meaning.
 
